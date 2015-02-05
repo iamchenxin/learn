@@ -1,11 +1,13 @@
-git¹Ù·½µÄbook
+gitå®˜æ–¹çš„book
 http://git-scm.com/book/zh/v1
 
-GIT»ù±¾¸ÅÄîºÍÓÃ·¨×Ü½á
+GITåŸºæœ¬æ¦‚å¿µå’Œç”¨æ³•æ€»ç»“
 https://github.com/iamchenxin/learn
 
-Git»Ø¹öµÄ³£ÓÃÊÖ·¨
+Gitå›æ»šçš„å¸¸ç”¨æ‰‹æ³•
 http://hittyt.iteye.com/blog/1961386
 
-´ÖÂÔµÄ½éÉÜ£¬ËÆºõ²»¾«È·
+ç²—ç•¥çš„ä»‹ç»ï¼Œä¼¼ä¹ä¸ç²¾ç¡®
 http://www.devtang.com/blog/2012/02/03/talk-about-svn-and-git/
+
+this is edited online 
