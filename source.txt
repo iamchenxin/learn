@@ -1,3 +1,6 @@
+git官方的book
+http://git-scm.com/book/zh/v1
+
 GIT基本概念和用法总结
 https://github.com/iamchenxin/learn
 
