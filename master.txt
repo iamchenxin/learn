@@ -4,3 +4,4 @@ iam 2 local updata
 iam 3 local updata
 
 iam master local 456
+iam test local 6666
